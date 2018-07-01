@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Book Store App</string>
+
+    <string name="product_details">Product details</string>
+    <string name="product_name">Name</string>
+    <string name="product_author">Author</string>
+    <string name="product_price">Price</string>
+
+    <string name="quantity">Quantity</string>
+
+    <string name="supplier_details">Supplier details</string>
+    <string name="supplier_name">Name</string>
+    <string name="supplier_phone">Phone number</string>
+
+    <string name="initial_quantity">1</string>
+    <string name="button_decrement"> - </string>
+    <string name="button_increment"> + </string>
+    <string name="order_book">Order this book</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Books</string>
+
+    <string name="editor_insert_book_successful">Book saved</string>
+    <string name="editor_insert_book_failed">Error with saving book</string>
+
+    <string name="editor_edit_book_successful">Book updated</string>
+    <string name="editor_edit_book_failed">Book wasn\'t updated</string>
+
+    <string name="editor_activity_title_add">Add a book</string>
+    <string name="editor_activity_title_edit">Edit book</string>
+
+    <string name="empty_view_title_text">There are no books in the shop.</string>
+    <string name="empty_view_subtitle_text">Start by adding one!</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this book?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_delete_book_successful">Book deleted</string>
+    <string name="editor_delete_book_failed">Error with deleting book</string>
+
+    <string name="button_sale">Sale</string>
+    <string name="sold_out">This product is sold out</string>
+
+    <string name="fill_out_fields">Please fill out all the fields.</string>
+    <string name="invalid_price">Please add a valid price.</string>
+</resources>
